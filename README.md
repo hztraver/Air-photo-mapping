@@ -15,4 +15,4 @@ Data and code supporting the publication "Travers-Smith et al. (2025). Long-term
 
 **05_pixel_samples.csv** = 30m pixels sampled to assess agreement between photo interpreted change in forest and shrub expansion with Landsat classification. Change is binary [0,1] for no increase vs increase in cover. 
 
-**photo_plots.shp** = shapefile of the locations of each photo interpretation grid cell and attributes from "transect_plots.csv".   
+**photo_plots.zip** = shapefile of the locations of each photo interpretation grid cell and attributes from "transect_plots.csv".   
