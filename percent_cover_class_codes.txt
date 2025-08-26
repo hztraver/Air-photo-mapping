@@ -1,0 +1,21 @@
+Historical percent cover classes
+0 None
+1 very low (1-5) = 3%
+2 low (5-25) = 15%
+3 moderate (25-40) = 32%
+4 high (40-60) = 50%
+5 very high (60+) = 80%
+
+Change percent cover classes
+0 None
+1 trace (1-5)= 3%
+2 moderate (5-10) = 7.5%
+3 high (10-20) = 15%
+4 very high (20-60) = 40% 
+
+Landcover types 
+Water
+Barren
+Graminoid
+Shrub 
+Forest
